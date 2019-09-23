@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="com.machinezoo.sourceafis:sourceafis:3.6.0" type="repository">
+    <properties maven-id="com.machinezoo.sourceafis:sourceafis:3.6.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sourceafis-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/trove4j-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/noexception-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnbis-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sanselan-0.97-incubator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
